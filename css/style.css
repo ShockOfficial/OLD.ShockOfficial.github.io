@@ -87,7 +87,7 @@
 #home {
     height: 100vh;
     min-height: 500px;
-    background: url(../images/setup_bg.png) no-repeat center;
+    background: url(../bg.png) no-repeat center;
     background-size: cover;
     background-attachment: fixed;
 }
